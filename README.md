@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
+  <a href="https://portafolio.ahban.workers.dev"><img src="https://img.shields.io/badge/Portfolio-View_full_work-B14F36?style=for-the-badge&logo=cloudflare&logoColor=white" alt="View Ahban's complete portfolio" /></a>
   <a href="https://agentos.mx/dashboard"><img src="https://img.shields.io/badge/AgentOS-Live-111318?style=for-the-badge&logoColor=white" alt="Open AgentOS" /></a>
   <a href="https://omnicube.mx"><img src="https://img.shields.io/badge/OmniCube-Live-11263A?style=for-the-badge&logoColor=white" alt="Open OmniCube" /></a>
   <a href="https://neurocity-frontend.orange-hill-1d01.workers.dev/login"><img src="https://img.shields.io/badge/Neurocity-Live-0A7E78?style=for-the-badge&logoColor=white" alt="Open Neurocity" /></a>
-  <a href="mailto:ahban@outlook.com?subject=Software%20Architecture%20Opportunity"><img src="https://img.shields.io/badge/Discuss_an_opportunity-B14F36?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Ahban" /></a>
 </p>
 
 ## Software Architect · Product Originator · Principal Engineer
@@ -89,6 +89,8 @@ paths, and owning reliability through delivery.
 <p align="center">
   <strong>Principal Software Architect · Staff / Principal Engineer · AI Platform Architect · Founding Engineer</strong>
   <br /><br />
+  <a href="https://portafolio.ahban.workers.dev"><strong>Full portfolio</strong></a>
+  &nbsp;·&nbsp;
   <a href="mailto:ahban@outlook.com?subject=Software%20Architecture%20Opportunity"><strong>ahban@outlook.com</strong></a>
   &nbsp;·&nbsp;
   Mexico / Available globally
