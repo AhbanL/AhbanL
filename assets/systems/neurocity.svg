@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title description">
+  <title id="title">Neurocity</title>
+  <desc id="description">Operational intelligence for urban infrastructure.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07121f"/><stop offset="1" stop-color="#0a3035"/></linearGradient>
+  </defs>
+  <rect width="1200" height="330" rx="32" fill="url(#night)"/>
+  <g opacity=".78">
+    <rect x="690" y="143" width="48" height="104" fill="#102f38"/><rect x="750" y="92" width="60" height="155" fill="#16414a"/><rect x="823" y="157" width="41" height="90" fill="#102f38"/><rect x="879" y="65" width="78" height="182" fill="#1a4d52"/><rect x="970" y="119" width="54" height="128" fill="#123840"/><rect x="1038" y="44" width="78" height="203" fill="#1b5457"/>
+  </g>
+  <path d="M714 143 780 92l70 65 68-92 79 54 80-75" fill="none" stroke="#6ee7e7" stroke-width="2" opacity=".72"/>
+  <g fill="#8df4ee"><circle cx="714" cy="143" r="7"/><circle cx="780" cy="92" r="7"/><circle cx="850" cy="157" r="7"/><circle cx="918" cy="65" r="7"/><circle cx="997" cy="119" r="7"/><circle cx="1077" cy="44" r="7"/></g>
+  <text x="42" y="45" font-family="monospace" font-size="9" letter-spacing="2.5" fill="#fff" opacity=".5">03 / URBAN OPERATIONS</text>
+  <text x="42" y="150" font-family="Georgia, serif" font-size="101" letter-spacing="-5" fill="#eefcfc">Neurocity</text>
+  <text x="46" y="197" font-family="Georgia, serif" font-size="28" font-style="italic" fill="#bce8e4">One operating picture for distributed infrastructure.</text>
+  <line x1="42" y1="250" x2="1158" y2="250" stroke="#fff" opacity=".14"/>
+  <text x="42" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">LIVE VIDEO</text>
+  <text x="252" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">GPS TELEMETRY</text>
+  <text x="493" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">ALARM FABRIC</text>
+  <text x="711" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">EDGE GATEWAYS</text>
+  <text x="953" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">SECURE CONTROL</text>
+</svg>
+

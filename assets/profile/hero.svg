@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title description">
+  <title id="title">Ahban — Software Architect</title>
+  <desc id="description">I architect systems that think, move, and endure.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3f0e8"/>
+      <stop offset="1" stop-color="#ded8cb"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#171714" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="470" rx="38" fill="url(#paper)"/>
+  <path d="M746 52C841 5 1007 17 1091 103c83 85 74 239-33 304-98 59-251 21-315-75-64-96-81-239 3-280Z" fill="#b14f36"/>
+  <circle cx="922" cy="235" r="136" fill="none" stroke="#f3f0e8" stroke-width="1.5" opacity=".55"/>
+  <circle cx="922" cy="235" r="198" fill="none" stroke="#171714" stroke-dasharray="2 10" opacity=".35"/>
+  <path d="M780 183C849 239 936 205 1007 139M1007 139c-25 98 13 138 72 166M1079 305c-75-1-119 45-133 103M946 408c-53-55-116-67-177-47M769 361c34-70 27-130 11-178" fill="none" stroke="#f3f0e8" opacity=".65"/>
+  <g fill="#f3f0e8">
+    <circle cx="780" cy="183" r="13"/><circle cx="1007" cy="139" r="13"/><circle cx="1079" cy="305" r="13"/><circle cx="946" cy="408" r="13"/><circle cx="769" cy="361" r="13"/>
+  </g>
+  <g fill="#171714">
+    <circle cx="780" cy="183" r="3.5"/><circle cx="1007" cy="139" r="3.5"/><circle cx="1079" cy="305" r="3.5"/><circle cx="946" cy="408" r="3.5"/><circle cx="769" cy="361" r="3.5"/>
+  </g>
+  <circle cx="922" cy="235" r="67" fill="#171714"/>
+  <text x="922" y="230" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#f3f0e8">systems</text>
+  <text x="922" y="255" text-anchor="middle" font-family="monospace" font-size="7" letter-spacing="3" fill="#f3f0e8">BY DESIGN</text>
+  <rect width="1200" height="470" rx="38" fill="url(#dots)"/>
+  <circle cx="52" cy="48" r="16" fill="#171714"/>
+  <text x="52" y="55" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#f3f0e8">A</text>
+  <text x="82" y="44" font-family="monospace" font-size="10" letter-spacing="3" fill="#171714">AHBAN</text>
+  <text x="82" y="62" font-family="monospace" font-size="8" letter-spacing="2.1" fill="#171714" opacity=".55">SOFTWARE ARCHITECT</text>
+  <circle cx="54" cy="112" r="4" fill="#b14f36"/>
+  <text x="70" y="116" font-family="monospace" font-size="8" letter-spacing="2.3" fill="#171714" opacity=".55">AI · CLOUD · DATA · EDGE</text>
+  <text x="50" y="191" font-family="Georgia, serif" font-size="65" letter-spacing="-3" fill="#171714">I architect</text>
+  <text x="50" y="255" font-family="Georgia, serif" font-size="65" letter-spacing="-3" fill="#171714">systems that</text>
+  <text x="78" y="319" font-family="Georgia, serif" font-size="65" font-style="italic" letter-spacing="-3" fill="#b14f36">think, move,</text>
+  <text x="50" y="383" font-family="Georgia, serif" font-size="65" letter-spacing="-3" fill="#171714">and endure.</text>
+  <text x="52" y="432" font-family="Arial, sans-serif" font-size="13" fill="#171714" opacity=".57">Product originator · Principal engineer · End-to-end ownership</text>
+</svg>
+

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title description">
+  <title id="title">Bring me the difficult system</title>
+  <desc id="description">Open to principal architecture, staff engineering, AI platform, and founding engineering opportunities.</desc>
+  <defs>
+    <radialGradient id="glow" cx="85%" cy="20%" r="90%">
+      <stop offset="0" stop-color="#b14f36" stop-opacity=".55"/>
+      <stop offset=".55" stop-color="#171714" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="250" rx="34" fill="#171714"/>
+  <rect width="1200" height="250" rx="34" fill="url(#glow)"/>
+  <path d="M870 40C957 5 1078 24 1138 91c59 66 21 146-73 156" fill="none" stroke="#f3f0e8" stroke-width="1" opacity=".12"/>
+  <text x="48" y="49" font-family="monospace" font-size="9" letter-spacing="2.7" fill="#f3f0e8" opacity=".45">AVAILABLE FOR CONSEQUENTIAL WORK</text>
+  <text x="48" y="126" font-family="Georgia, serif" font-size="62" letter-spacing="-2" fill="#f3f0e8">Bring me the</text>
+  <text x="48" y="187" font-family="Georgia, serif" font-size="62" font-style="italic" letter-spacing="-2" fill="#d9c49f">difficult system.</text>
+  <text x="1150" y="211" text-anchor="end" font-family="monospace" font-size="8" letter-spacing="2" fill="#f3f0e8" opacity=".42">MEXICO · GLOBAL PRACTICE</text>
+</svg>
+

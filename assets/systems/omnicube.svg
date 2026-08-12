@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title description">
+  <title id="title">OmniCube</title>
+  <desc id="description">Real-time fleet intelligence.</desc>
+  <defs>
+    <linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#183b45"/><stop offset=".6" stop-color="#10243b"/><stop offset="1" stop-color="#071421"/></linearGradient>
+  </defs>
+  <rect width="1200" height="330" rx="32" fill="url(#ocean)"/>
+  <path d="M650 60c100 40 129 90 238 71 119-21 164-79 264-43M620 217c113-53 183 16 276-4 105-23 130-77 256-53M724 26c-20 75 32 109 10 183-15 51-49 67-45 111M987 20c-14 62 25 102 8 162-15 52-48 76-43 140" fill="none" stroke="#65d9e8" opacity=".18"/>
+  <path d="M670 242c37-92 84-46 140-132 46-70 92-23 144-79 54-58 96 14 170-10" fill="none" stroke="#67e8f9" stroke-width="3"/>
+  <g fill="#67e8f9"><circle cx="670" cy="242" r="8"/><circle cx="810" cy="110" r="8"/><circle cx="954" cy="31" r="8"/><circle cx="1124" cy="21" r="8"/></g>
+  <text x="42" y="45" font-family="monospace" font-size="9" letter-spacing="2.5" fill="#fff" opacity=".5">02 / REAL-TIME FLEET INTELLIGENCE</text>
+  <text x="42" y="150" font-family="Georgia, serif" font-size="101" letter-spacing="-5" fill="#effaff">OmniCube</text>
+  <text x="46" y="197" font-family="Georgia, serif" font-size="28" font-style="italic" fill="#bdeef3">Telemetry becomes operational intelligence.</text>
+  <line x1="42" y1="250" x2="1158" y2="250" stroke="#fff" opacity=".14"/>
+  <text x="42" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">TCP / UDP INGESTION</text>
+  <text x="322" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">PROTOCOL ADAPTERS</text>
+  <text x="593" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">KAFKA BACKBONE</text>
+  <text x="815" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">WEBSOCKET FAN-OUT</text>
+  <text x="1061" y="286" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#fff" opacity=".6">MAPS</text>
+</svg>
+
